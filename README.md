@@ -5,3 +5,9 @@
 ```
 cd git-demo
 ```
+
+```
+git add
+git commit
+git push
+```
